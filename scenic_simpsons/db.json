@@ -6,7 +6,7 @@
         "rating": 8.2,
         "description": "When Homer receives no holiday bonus, he hopes to make extra money by becoming a Mall Santa, in an attempt to bring the family a happy holiday.",
         "airDate": "1990-09-01T23:00:00.000Z",
-        "thumbnailUrl": "/images/1.png",
+        "thumbnailUrl": "https://shannon-andrew.github.io/scenic-simpsons/scenic_simpsons/images/1.png",
         "id": 1
     },
     {
@@ -16,7 +16,7 @@
         "rating": 7.8,
         "description": "Bart ends up at a school for gifted children after cheating on an IQ test.",
         "airDate": "1990-01-14T00:00:00.000Z",
-        "thumbnailUrl": "/images/2.png",
+        "thumbnailUrl": "https://shannon-andrew.github.io/scenic-simpsons/scenic_simpsons/images/2.png",
         "id": 2
     },
     {
@@ -26,7 +26,7 @@
         "rating": 7.4,
         "description": "While Bart's class is touring the power plant on a field trip, Homer crashes a cart into a radioactive pipe. In the aftermath, the plant is forced to shut down and Homer loses his job.",
         "airDate": "1990-01-21T00:00:00.000Z",
-        "thumbnailUrl": "/images/3.png",
+        "thumbnailUrl": "https://shannon-andrew.github.io/scenic-simpsons/scenic_simpsons/images/3.png",
         "id": 3
     },
     {
@@ -36,7 +36,7 @@
         "rating": 7.8,
         "description": "After being embarrassed by the rest of the family at a company picnic, Homer becomes obsessed with improving their behavior towards each other.",
         "airDate": "1990-01-28T00:00:00.000Z",
-        "thumbnailUrl": "/images/4.png",
+        "thumbnailUrl": "https://shannon-andrew.github.io/scenic-simpsons/scenic_simpsons/images/4.png",
         "id": 4
     },
     {
@@ -46,7 +46,7 @@
         "rating": 8.1,
         "description": "After being beaten up by Nelson Muntz one too many times, Bart turns to Grampa for help, and soon leads a rebellion against the school bully.",
         "airDate": "1990-02-04T00:00:00.000Z",
-        "thumbnailUrl": "/images/5.png",
+        "thumbnailUrl": "https://shannon-andrew.github.io/scenic-simpsons/scenic_simpsons/images/5.png",
         "id": 5
     },
     {
@@ -56,7 +56,7 @@
         "rating": 7.6,
         "description": "A depressed Lisa's spirit is lifted when she meets a jazz-man, Bleeding Gums Murphy.",
         "airDate": "1990-02-11T00:00:00.000Z",
-        "thumbnailUrl": "/images/6.png",
+        "thumbnailUrl": "https://shannon-andrew.github.io/scenic-simpsons/scenic_simpsons/images/6.png",
         "id": 6
     },
     {
@@ -66,7 +66,7 @@
         "rating": 7.9,
         "description": "Jealous of Ned Flanders' new RV, Homer purchases one of his own, but the family's trip into the wilderness soon goes awry.",
         "airDate": "1990-09-01T23:00:00.000Z",
-        "thumbnailUrl": "/images/7.png",
+        "thumbnailUrl": "https://shannon-andrew.github.io/scenic-simpsons/scenic_simpsons/images/7.png",
         "id": 7
     },
     {
@@ -76,7 +76,7 @@
         "rating": 7.7,
         "description": "Bart gets more than he bargained for when he saws the head off a statue of the town's founder.",
         "airDate": "1990-02-25T00:00:00.000Z",
-        "thumbnailUrl": "/images/8.png",
+        "thumbnailUrl": "https://shannon-andrew.github.io/scenic-simpsons/scenic_simpsons/images/8.png",
         "id": 8
     },
     {
@@ -86,7 +86,7 @@
         "rating": 7.5,
         "description": "Marge contemplates an affair with a handsome bowling instructor.",
         "airDate": "1990-03-18T00:00:00.000Z",
-        "thumbnailUrl": "/images/9.png",
+        "thumbnailUrl": "https://shannon-andrew.github.io/scenic-simpsons/scenic_simpsons/images/9.png",
         "id": 9
     },
     {
@@ -96,7 +96,7 @@
         "rating": 7.4,
         "description": "After a photograph of Homer canoodling with an exotic dancer is distributed throughout Springfield, he finds himself kicked out of the house by Marge.",
         "airDate": "1990-03-25T00:00:00.000Z",
-        "thumbnailUrl": "/images/10.png",
+        "thumbnailUrl": "https://shannon-andrew.github.io/scenic-simpsons/scenic_simpsons/images/10.png",
         "id": 10
     }
 ]
